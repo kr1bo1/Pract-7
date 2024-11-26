@@ -1,0 +1,7 @@
+C:\Users\krist\source\repos\Pract 7\Pract 7\bin\Debug\Pract 7.exe.config
+C:\Users\krist\source\repos\Pract 7\Pract 7\bin\Debug\Pract 7.exe
+C:\Users\krist\source\repos\Pract 7\Pract 7\bin\Debug\Pract 7.pdb
+C:\Users\krist\source\repos\Pract 7\Pract 7\obj\Debug\Pract 7.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\Pract 7\Pract 7\obj\Debug\Pract 7.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\Pract 7\Pract 7\obj\Debug\Pract 7.exe
+C:\Users\krist\source\repos\Pract 7\Pract 7\obj\Debug\Pract 7.pdb
